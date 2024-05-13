@@ -1,5 +1,8 @@
 <?php
 
+// ehsanmasoudi.ir
+// https://github.com/ehsanmasoudi
+
 define('BOT_API_KEY','');
 $ChannelId = "";
 $ApiEndponit = "https://example.ir/api/v2/";
